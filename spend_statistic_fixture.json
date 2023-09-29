@@ -1,0 +1,3302 @@
+[
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend1",
+      "date": "2023-09-26",
+      "spend": 169.68,
+      "impressions": 1150,
+      "clicks": 246,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend1",
+      "date": "2023-09-24",
+      "spend": 228.22,
+      "impressions": 3613,
+      "clicks": 63,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend1",
+      "date": "2023-09-25",
+      "spend": 555.38,
+      "impressions": 6958,
+      "clicks": 340,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend1",
+      "date": "2023-09-26",
+      "spend": 642.22,
+      "impressions": 7919,
+      "clicks": 459,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend1",
+      "date": "2023-09-26",
+      "spend": 786.98,
+      "impressions": 3725,
+      "clicks": 416,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend1",
+      "date": "2023-09-26",
+      "spend": 669.81,
+      "impressions": 7580,
+      "clicks": 353,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend1",
+      "date": "2023-09-27",
+      "spend": 75.31,
+      "impressions": 6275,
+      "clicks": 330,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend1",
+      "date": "2023-09-28",
+      "spend": 972.81,
+      "impressions": 8728,
+      "clicks": 493,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend1",
+      "date": "2023-09-26",
+      "spend": 542.29,
+      "impressions": 3062,
+      "clicks": 354,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend1",
+      "date": "2023-09-27",
+      "spend": 960.45,
+      "impressions": 4101,
+      "clicks": 135,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend2",
+      "date": "2023-09-27",
+      "spend": 914.4,
+      "impressions": 8826,
+      "clicks": 401,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend2",
+      "date": "2023-09-25",
+      "spend": 156.93,
+      "impressions": 5169,
+      "clicks": 416,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend2",
+      "date": "2023-09-24",
+      "spend": 239.54,
+      "impressions": 2532,
+      "clicks": 114,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend2",
+      "date": "2023-09-24",
+      "spend": 186.77,
+      "impressions": 1105,
+      "clicks": 154,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend2",
+      "date": "2023-09-27",
+      "spend": 15.0,
+      "impressions": 1946,
+      "clicks": 373,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend2",
+      "date": "2023-09-24",
+      "spend": 687.44,
+      "impressions": 6269,
+      "clicks": 276,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend2",
+      "date": "2023-09-28",
+      "spend": 31.38,
+      "impressions": 1295,
+      "clicks": 197,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend2",
+      "date": "2023-09-26",
+      "spend": 761.96,
+      "impressions": 2274,
+      "clicks": 476,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend2",
+      "date": "2023-09-25",
+      "spend": 716.64,
+      "impressions": 2937,
+      "clicks": 404,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend2",
+      "date": "2023-09-28",
+      "spend": 587.85,
+      "impressions": 3766,
+      "clicks": 77,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend3",
+      "date": "2023-09-24",
+      "spend": 483.24,
+      "impressions": 1619,
+      "clicks": 412,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend3",
+      "date": "2023-09-27",
+      "spend": 433.05,
+      "impressions": 2345,
+      "clicks": 257,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend3",
+      "date": "2023-09-25",
+      "spend": 294.28,
+      "impressions": 1651,
+      "clicks": 416,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend3",
+      "date": "2023-09-25",
+      "spend": 277.56,
+      "impressions": 5896,
+      "clicks": 59,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend3",
+      "date": "2023-09-28",
+      "spend": 293.47,
+      "impressions": 9442,
+      "clicks": 447,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend3",
+      "date": "2023-09-26",
+      "spend": 581.82,
+      "impressions": 7552,
+      "clicks": 335,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend3",
+      "date": "2023-09-28",
+      "spend": 678.68,
+      "impressions": 9302,
+      "clicks": 493,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend3",
+      "date": "2023-09-26",
+      "spend": 573.88,
+      "impressions": 2616,
+      "clicks": 331,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend3",
+      "date": "2023-09-27",
+      "spend": 404.93,
+      "impressions": 7987,
+      "clicks": 229,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend3",
+      "date": "2023-09-26",
+      "spend": 88.93,
+      "impressions": 9250,
+      "clicks": 270,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend4",
+      "date": "2023-09-24",
+      "spend": 36.97,
+      "impressions": 2537,
+      "clicks": 148,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend4",
+      "date": "2023-09-24",
+      "spend": 137.34,
+      "impressions": 8080,
+      "clicks": 55,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend4",
+      "date": "2023-09-26",
+      "spend": 892.84,
+      "impressions": 9896,
+      "clicks": 341,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend4",
+      "date": "2023-09-26",
+      "spend": 687.16,
+      "impressions": 9098,
+      "clicks": 417,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend4",
+      "date": "2023-09-24",
+      "spend": 415.81,
+      "impressions": 7605,
+      "clicks": 278,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend4",
+      "date": "2023-09-25",
+      "spend": 375.5,
+      "impressions": 2017,
+      "clicks": 257,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend4",
+      "date": "2023-09-24",
+      "spend": 289.67,
+      "impressions": 8710,
+      "clicks": 118,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend4",
+      "date": "2023-09-27",
+      "spend": 371.95,
+      "impressions": 7974,
+      "clicks": 424,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend4",
+      "date": "2023-09-26",
+      "spend": 798.46,
+      "impressions": 2915,
+      "clicks": 283,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend4",
+      "date": "2023-09-24",
+      "spend": 828.82,
+      "impressions": 3837,
+      "clicks": 132,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend5",
+      "date": "2023-09-28",
+      "spend": 319.48,
+      "impressions": 3181,
+      "clicks": 203,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend5",
+      "date": "2023-09-25",
+      "spend": 165.07,
+      "impressions": 6000,
+      "clicks": 200,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend5",
+      "date": "2023-09-28",
+      "spend": 954.18,
+      "impressions": 8566,
+      "clicks": 426,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend5",
+      "date": "2023-09-24",
+      "spend": 425.04,
+      "impressions": 2509,
+      "clicks": 399,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend5",
+      "date": "2023-09-26",
+      "spend": 388.21,
+      "impressions": 2096,
+      "clicks": 497,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend5",
+      "date": "2023-09-26",
+      "spend": 348.37,
+      "impressions": 5979,
+      "clicks": 377,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend5",
+      "date": "2023-09-24",
+      "spend": 323.5,
+      "impressions": 7343,
+      "clicks": 222,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend5",
+      "date": "2023-09-25",
+      "spend": 946.5,
+      "impressions": 9072,
+      "clicks": 240,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend5",
+      "date": "2023-09-26",
+      "spend": 449.13,
+      "impressions": 8255,
+      "clicks": 249,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend5",
+      "date": "2023-09-24",
+      "spend": 570.16,
+      "impressions": 1364,
+      "clicks": 251,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend6",
+      "date": "2023-09-24",
+      "spend": 543.0,
+      "impressions": 7194,
+      "clicks": 364,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend6",
+      "date": "2023-09-26",
+      "spend": 588.54,
+      "impressions": 5508,
+      "clicks": 267,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend6",
+      "date": "2023-09-25",
+      "spend": 969.28,
+      "impressions": 8742,
+      "clicks": 225,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend6",
+      "date": "2023-09-27",
+      "spend": 986.0,
+      "impressions": 2484,
+      "clicks": 389,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend6",
+      "date": "2023-09-28",
+      "spend": 265.72,
+      "impressions": 5677,
+      "clicks": 148,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend6",
+      "date": "2023-09-25",
+      "spend": 113.6,
+      "impressions": 4002,
+      "clicks": 285,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend6",
+      "date": "2023-09-24",
+      "spend": 240.62,
+      "impressions": 9877,
+      "clicks": 317,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend6",
+      "date": "2023-09-27",
+      "spend": 203.41,
+      "impressions": 9726,
+      "clicks": 84,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend6",
+      "date": "2023-09-24",
+      "spend": 177.01,
+      "impressions": 3221,
+      "clicks": 471,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend6",
+      "date": "2023-09-26",
+      "spend": 209.33,
+      "impressions": 2573,
+      "clicks": 494,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend7",
+      "date": "2023-09-24",
+      "spend": 326.99,
+      "impressions": 4963,
+      "clicks": 338,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend7",
+      "date": "2023-09-26",
+      "spend": 220.56,
+      "impressions": 8716,
+      "clicks": 279,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend7",
+      "date": "2023-09-25",
+      "spend": 481.34,
+      "impressions": 1869,
+      "clicks": 480,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend7",
+      "date": "2023-09-26",
+      "spend": 761.99,
+      "impressions": 9435,
+      "clicks": 247,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend7",
+      "date": "2023-09-28",
+      "spend": 166.52,
+      "impressions": 8078,
+      "clicks": 94,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend7",
+      "date": "2023-09-28",
+      "spend": 102.13,
+      "impressions": 1666,
+      "clicks": 304,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend7",
+      "date": "2023-09-24",
+      "spend": 584.02,
+      "impressions": 4238,
+      "clicks": 131,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend7",
+      "date": "2023-09-28",
+      "spend": 284.26,
+      "impressions": 1798,
+      "clicks": 247,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend7",
+      "date": "2023-09-26",
+      "spend": 208.8,
+      "impressions": 3226,
+      "clicks": 398,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend7",
+      "date": "2023-09-26",
+      "spend": 25.51,
+      "impressions": 4832,
+      "clicks": 454,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend8",
+      "date": "2023-09-26",
+      "spend": 124.8,
+      "impressions": 4852,
+      "clicks": 263,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend8",
+      "date": "2023-09-27",
+      "spend": 314.31,
+      "impressions": 4041,
+      "clicks": 154,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend8",
+      "date": "2023-09-24",
+      "spend": 14.61,
+      "impressions": 3912,
+      "clicks": 184,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend8",
+      "date": "2023-09-24",
+      "spend": 75.83,
+      "impressions": 9451,
+      "clicks": 195,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend8",
+      "date": "2023-09-27",
+      "spend": 952.22,
+      "impressions": 9308,
+      "clicks": 322,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend8",
+      "date": "2023-09-26",
+      "spend": 524.62,
+      "impressions": 5136,
+      "clicks": 61,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend8",
+      "date": "2023-09-24",
+      "spend": 57.86,
+      "impressions": 9258,
+      "clicks": 141,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend8",
+      "date": "2023-09-28",
+      "spend": 254.05,
+      "impressions": 5758,
+      "clicks": 117,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend8",
+      "date": "2023-09-27",
+      "spend": 282.01,
+      "impressions": 6733,
+      "clicks": 443,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend8",
+      "date": "2023-09-27",
+      "spend": 352.87,
+      "impressions": 7634,
+      "clicks": 222,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend9",
+      "date": "2023-09-27",
+      "spend": 928.61,
+      "impressions": 3511,
+      "clicks": 389,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend9",
+      "date": "2023-09-25",
+      "spend": 603.99,
+      "impressions": 7710,
+      "clicks": 314,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend9",
+      "date": "2023-09-28",
+      "spend": 545.94,
+      "impressions": 9808,
+      "clicks": 109,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend9",
+      "date": "2023-09-25",
+      "spend": 245.07,
+      "impressions": 8138,
+      "clicks": 59,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend9",
+      "date": "2023-09-26",
+      "spend": 312.2,
+      "impressions": 3654,
+      "clicks": 437,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend9",
+      "date": "2023-09-25",
+      "spend": 499.04,
+      "impressions": 4304,
+      "clicks": 426,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend9",
+      "date": "2023-09-27",
+      "spend": 811.11,
+      "impressions": 3771,
+      "clicks": 290,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend9",
+      "date": "2023-09-26",
+      "spend": 471.11,
+      "impressions": 9222,
+      "clicks": 76,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend9",
+      "date": "2023-09-27",
+      "spend": 43.9,
+      "impressions": 3305,
+      "clicks": 289,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend9",
+      "date": "2023-09-28",
+      "spend": 923.56,
+      "impressions": 7401,
+      "clicks": 90,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend10",
+      "date": "2023-09-27",
+      "spend": 864.38,
+      "impressions": 2819,
+      "clicks": 472,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend10",
+      "date": "2023-09-24",
+      "spend": 632.41,
+      "impressions": 2791,
+      "clicks": 330,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend10",
+      "date": "2023-09-25",
+      "spend": 923.93,
+      "impressions": 7600,
+      "clicks": 483,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend10",
+      "date": "2023-09-26",
+      "spend": 377.59,
+      "impressions": 8398,
+      "clicks": 299,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend10",
+      "date": "2023-09-28",
+      "spend": 411.3,
+      "impressions": 7023,
+      "clicks": 460,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend10",
+      "date": "2023-09-26",
+      "spend": 643.41,
+      "impressions": 3558,
+      "clicks": 264,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend10",
+      "date": "2023-09-28",
+      "spend": 150.15,
+      "impressions": 1756,
+      "clicks": 183,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend10",
+      "date": "2023-09-24",
+      "spend": 743.45,
+      "impressions": 7994,
+      "clicks": 256,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend10",
+      "date": "2023-09-24",
+      "spend": 614.91,
+      "impressions": 9742,
+      "clicks": 211,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend10",
+      "date": "2023-09-26",
+      "spend": 71.71,
+      "impressions": 5576,
+      "clicks": 129,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend11",
+      "date": "2023-09-24",
+      "spend": 692.09,
+      "impressions": 6125,
+      "clicks": 345,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend11",
+      "date": "2023-09-25",
+      "spend": 441.03,
+      "impressions": 4181,
+      "clicks": 454,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend11",
+      "date": "2023-09-27",
+      "spend": 148.87,
+      "impressions": 2259,
+      "clicks": 305,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend11",
+      "date": "2023-09-24",
+      "spend": 339.9,
+      "impressions": 2216,
+      "clicks": 450,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend11",
+      "date": "2023-09-27",
+      "spend": 882.22,
+      "impressions": 2600,
+      "clicks": 432,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend11",
+      "date": "2023-09-28",
+      "spend": 21.6,
+      "impressions": 6030,
+      "clicks": 208,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend11",
+      "date": "2023-09-24",
+      "spend": 554.76,
+      "impressions": 9762,
+      "clicks": 449,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend11",
+      "date": "2023-09-24",
+      "spend": 355.36,
+      "impressions": 2845,
+      "clicks": 471,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend11",
+      "date": "2023-09-27",
+      "spend": 995.07,
+      "impressions": 1851,
+      "clicks": 78,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend11",
+      "date": "2023-09-24",
+      "spend": 740.02,
+      "impressions": 6064,
+      "clicks": 64,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend12",
+      "date": "2023-09-24",
+      "spend": 798.39,
+      "impressions": 9885,
+      "clicks": 402,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend12",
+      "date": "2023-09-24",
+      "spend": 36.66,
+      "impressions": 3536,
+      "clicks": 198,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend12",
+      "date": "2023-09-28",
+      "spend": 425.62,
+      "impressions": 1930,
+      "clicks": 304,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend12",
+      "date": "2023-09-25",
+      "spend": 859.46,
+      "impressions": 4629,
+      "clicks": 78,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend12",
+      "date": "2023-09-25",
+      "spend": 822.5,
+      "impressions": 4906,
+      "clicks": 152,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend12",
+      "date": "2023-09-27",
+      "spend": 467.73,
+      "impressions": 5045,
+      "clicks": 370,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend12",
+      "date": "2023-09-27",
+      "spend": 14.93,
+      "impressions": 2211,
+      "clicks": 411,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend12",
+      "date": "2023-09-27",
+      "spend": 232.09,
+      "impressions": 7438,
+      "clicks": 317,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend12",
+      "date": "2023-09-25",
+      "spend": 493.6,
+      "impressions": 8699,
+      "clicks": 437,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend12",
+      "date": "2023-09-26",
+      "spend": 411.46,
+      "impressions": 1015,
+      "clicks": 210,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend13",
+      "date": "2023-09-26",
+      "spend": 689.61,
+      "impressions": 8728,
+      "clicks": 236,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend13",
+      "date": "2023-09-27",
+      "spend": 293.16,
+      "impressions": 4452,
+      "clicks": 211,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend13",
+      "date": "2023-09-27",
+      "spend": 531.43,
+      "impressions": 7474,
+      "clicks": 87,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend13",
+      "date": "2023-09-25",
+      "spend": 87.78,
+      "impressions": 6286,
+      "clicks": 152,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend13",
+      "date": "2023-09-27",
+      "spend": 285.1,
+      "impressions": 8692,
+      "clicks": 175,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend13",
+      "date": "2023-09-28",
+      "spend": 288.66,
+      "impressions": 4160,
+      "clicks": 386,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend13",
+      "date": "2023-09-26",
+      "spend": 845.86,
+      "impressions": 5321,
+      "clicks": 167,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend13",
+      "date": "2023-09-26",
+      "spend": 853.88,
+      "impressions": 6475,
+      "clicks": 444,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend13",
+      "date": "2023-09-28",
+      "spend": 877.87,
+      "impressions": 2980,
+      "clicks": 452,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend13",
+      "date": "2023-09-26",
+      "spend": 634.63,
+      "impressions": 1133,
+      "clicks": 322,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend14",
+      "date": "2023-09-27",
+      "spend": 915.19,
+      "impressions": 4601,
+      "clicks": 268,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend14",
+      "date": "2023-09-28",
+      "spend": 565.56,
+      "impressions": 4009,
+      "clicks": 69,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend14",
+      "date": "2023-09-27",
+      "spend": 94.2,
+      "impressions": 4412,
+      "clicks": 193,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend14",
+      "date": "2023-09-26",
+      "spend": 429.85,
+      "impressions": 2428,
+      "clicks": 139,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend14",
+      "date": "2023-09-25",
+      "spend": 616.73,
+      "impressions": 4004,
+      "clicks": 498,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend14",
+      "date": "2023-09-25",
+      "spend": 933.83,
+      "impressions": 3602,
+      "clicks": 356,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend14",
+      "date": "2023-09-25",
+      "spend": 852.29,
+      "impressions": 3095,
+      "clicks": 186,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend14",
+      "date": "2023-09-26",
+      "spend": 61.74,
+      "impressions": 8511,
+      "clicks": 333,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend14",
+      "date": "2023-09-26",
+      "spend": 781.7,
+      "impressions": 8996,
+      "clicks": 246,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend14",
+      "date": "2023-09-24",
+      "spend": 416.32,
+      "impressions": 2751,
+      "clicks": 499,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend15",
+      "date": "2023-09-26",
+      "spend": 997.0,
+      "impressions": 7148,
+      "clicks": 251,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend15",
+      "date": "2023-09-26",
+      "spend": 439.7,
+      "impressions": 7921,
+      "clicks": 233,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend15",
+      "date": "2023-09-25",
+      "spend": 382.87,
+      "impressions": 1159,
+      "clicks": 111,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend15",
+      "date": "2023-09-26",
+      "spend": 870.36,
+      "impressions": 2130,
+      "clicks": 411,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend15",
+      "date": "2023-09-26",
+      "spend": 74.96,
+      "impressions": 6622,
+      "clicks": 60,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend15",
+      "date": "2023-09-26",
+      "spend": 319.79,
+      "impressions": 9468,
+      "clicks": 91,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend15",
+      "date": "2023-09-27",
+      "spend": 548.01,
+      "impressions": 3744,
+      "clicks": 355,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend15",
+      "date": "2023-09-25",
+      "spend": 660.28,
+      "impressions": 3322,
+      "clicks": 56,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend15",
+      "date": "2023-09-26",
+      "spend": 819.66,
+      "impressions": 2388,
+      "clicks": 243,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend15",
+      "date": "2023-09-25",
+      "spend": 971.04,
+      "impressions": 9114,
+      "clicks": 368,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend16",
+      "date": "2023-09-28",
+      "spend": 167.25,
+      "impressions": 1622,
+      "clicks": 225,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend16",
+      "date": "2023-09-26",
+      "spend": 819.68,
+      "impressions": 3834,
+      "clicks": 121,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend16",
+      "date": "2023-09-27",
+      "spend": 386.8,
+      "impressions": 4662,
+      "clicks": 278,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend16",
+      "date": "2023-09-26",
+      "spend": 433.32,
+      "impressions": 1048,
+      "clicks": 123,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend16",
+      "date": "2023-09-27",
+      "spend": 501.48,
+      "impressions": 7797,
+      "clicks": 334,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend16",
+      "date": "2023-09-24",
+      "spend": 920.92,
+      "impressions": 5430,
+      "clicks": 288,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend16",
+      "date": "2023-09-25",
+      "spend": 789.72,
+      "impressions": 3633,
+      "clicks": 91,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend16",
+      "date": "2023-09-26",
+      "spend": 209.95,
+      "impressions": 5404,
+      "clicks": 298,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend16",
+      "date": "2023-09-26",
+      "spend": 548.9,
+      "impressions": 5287,
+      "clicks": 472,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend16",
+      "date": "2023-09-28",
+      "spend": 475.15,
+      "impressions": 2766,
+      "clicks": 478,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend17",
+      "date": "2023-09-27",
+      "spend": 994.7,
+      "impressions": 3076,
+      "clicks": 192,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend17",
+      "date": "2023-09-26",
+      "spend": 575.04,
+      "impressions": 5509,
+      "clicks": 87,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend17",
+      "date": "2023-09-26",
+      "spend": 455.94,
+      "impressions": 2989,
+      "clicks": 65,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend17",
+      "date": "2023-09-27",
+      "spend": 373.0,
+      "impressions": 3814,
+      "clicks": 82,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend17",
+      "date": "2023-09-25",
+      "spend": 373.42,
+      "impressions": 3920,
+      "clicks": 323,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend17",
+      "date": "2023-09-28",
+      "spend": 382.4,
+      "impressions": 6984,
+      "clicks": 211,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend17",
+      "date": "2023-09-25",
+      "spend": 131.1,
+      "impressions": 2478,
+      "clicks": 119,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend17",
+      "date": "2023-09-24",
+      "spend": 603.0,
+      "impressions": 5766,
+      "clicks": 86,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend17",
+      "date": "2023-09-25",
+      "spend": 591.28,
+      "impressions": 5554,
+      "clicks": 240,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend17",
+      "date": "2023-09-27",
+      "spend": 938.28,
+      "impressions": 2161,
+      "clicks": 351,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend18",
+      "date": "2023-09-25",
+      "spend": 360.12,
+      "impressions": 3127,
+      "clicks": 142,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend18",
+      "date": "2023-09-27",
+      "spend": 697.86,
+      "impressions": 4882,
+      "clicks": 377,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend18",
+      "date": "2023-09-27",
+      "spend": 289.4,
+      "impressions": 4795,
+      "clicks": 320,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend18",
+      "date": "2023-09-28",
+      "spend": 585.08,
+      "impressions": 5787,
+      "clicks": 107,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend18",
+      "date": "2023-09-26",
+      "spend": 85.32,
+      "impressions": 4197,
+      "clicks": 175,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend18",
+      "date": "2023-09-28",
+      "spend": 473.51,
+      "impressions": 2951,
+      "clicks": 340,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend18",
+      "date": "2023-09-25",
+      "spend": 741.16,
+      "impressions": 3020,
+      "clicks": 174,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend18",
+      "date": "2023-09-24",
+      "spend": 660.25,
+      "impressions": 8779,
+      "clicks": 479,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend18",
+      "date": "2023-09-25",
+      "spend": 450.65,
+      "impressions": 3291,
+      "clicks": 114,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend18",
+      "date": "2023-09-27",
+      "spend": 307.22,
+      "impressions": 8851,
+      "clicks": 124,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend19",
+      "date": "2023-09-25",
+      "spend": 969.97,
+      "impressions": 3067,
+      "clicks": 224,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend19",
+      "date": "2023-09-27",
+      "spend": 635.45,
+      "impressions": 2754,
+      "clicks": 206,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend19",
+      "date": "2023-09-26",
+      "spend": 642.12,
+      "impressions": 9632,
+      "clicks": 416,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend19",
+      "date": "2023-09-27",
+      "spend": 90.5,
+      "impressions": 6187,
+      "clicks": 430,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend19",
+      "date": "2023-09-24",
+      "spend": 254.54,
+      "impressions": 7598,
+      "clicks": 99,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend19",
+      "date": "2023-09-28",
+      "spend": 149.61,
+      "impressions": 8534,
+      "clicks": 338,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend19",
+      "date": "2023-09-26",
+      "spend": 371.71,
+      "impressions": 7319,
+      "clicks": 358,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend19",
+      "date": "2023-09-25",
+      "spend": 90.04,
+      "impressions": 3770,
+      "clicks": 270,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend19",
+      "date": "2023-09-26",
+      "spend": 942.48,
+      "impressions": 7266,
+      "clicks": 493,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend19",
+      "date": "2023-09-26",
+      "spend": 294.01,
+      "impressions": 6774,
+      "clicks": 206,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend20",
+      "date": "2023-09-25",
+      "spend": 143.19,
+      "impressions": 9401,
+      "clicks": 304,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend20",
+      "date": "2023-09-25",
+      "spend": 332.82,
+      "impressions": 2048,
+      "clicks": 327,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend20",
+      "date": "2023-09-24",
+      "spend": 370.26,
+      "impressions": 5557,
+      "clicks": 351,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend20",
+      "date": "2023-09-24",
+      "spend": 75.61,
+      "impressions": 2591,
+      "clicks": 158,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend20",
+      "date": "2023-09-27",
+      "spend": 677.87,
+      "impressions": 3453,
+      "clicks": 309,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend20",
+      "date": "2023-09-26",
+      "spend": 36.42,
+      "impressions": 8348,
+      "clicks": 252,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend20",
+      "date": "2023-09-25",
+      "spend": 236.4,
+      "impressions": 1472,
+      "clicks": 112,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend20",
+      "date": "2023-09-26",
+      "spend": 908.91,
+      "impressions": 6247,
+      "clicks": 438,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend20",
+      "date": "2023-09-25",
+      "spend": 405.51,
+      "impressions": 7675,
+      "clicks": 115,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend20",
+      "date": "2023-09-25",
+      "spend": 663.69,
+      "impressions": 7824,
+      "clicks": 476,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend21",
+      "date": "2023-09-28",
+      "spend": 840.83,
+      "impressions": 6769,
+      "clicks": 234,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend21",
+      "date": "2023-09-27",
+      "spend": 239.25,
+      "impressions": 8871,
+      "clicks": 323,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend21",
+      "date": "2023-09-24",
+      "spend": 850.12,
+      "impressions": 8748,
+      "clicks": 197,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend21",
+      "date": "2023-09-24",
+      "spend": 522.91,
+      "impressions": 2713,
+      "clicks": 376,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend21",
+      "date": "2023-09-25",
+      "spend": 184.91,
+      "impressions": 2357,
+      "clicks": 353,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend21",
+      "date": "2023-09-27",
+      "spend": 285.73,
+      "impressions": 1169,
+      "clicks": 288,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend21",
+      "date": "2023-09-28",
+      "spend": 303.66,
+      "impressions": 1091,
+      "clicks": 182,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend21",
+      "date": "2023-09-28",
+      "spend": 361.07,
+      "impressions": 4358,
+      "clicks": 249,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend21",
+      "date": "2023-09-24",
+      "spend": 200.69,
+      "impressions": 8086,
+      "clicks": 93,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend21",
+      "date": "2023-09-28",
+      "spend": 48.91,
+      "impressions": 3069,
+      "clicks": 315,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend22",
+      "date": "2023-09-25",
+      "spend": 38.81,
+      "impressions": 9556,
+      "clicks": 456,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend22",
+      "date": "2023-09-25",
+      "spend": 106.45,
+      "impressions": 4793,
+      "clicks": 302,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend22",
+      "date": "2023-09-24",
+      "spend": 886.49,
+      "impressions": 6668,
+      "clicks": 225,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend22",
+      "date": "2023-09-27",
+      "spend": 235.32,
+      "impressions": 2795,
+      "clicks": 478,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend22",
+      "date": "2023-09-26",
+      "spend": 287.31,
+      "impressions": 8786,
+      "clicks": 208,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend22",
+      "date": "2023-09-27",
+      "spend": 684.03,
+      "impressions": 2475,
+      "clicks": 390,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend22",
+      "date": "2023-09-27",
+      "spend": 715.22,
+      "impressions": 7390,
+      "clicks": 289,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend22",
+      "date": "2023-09-25",
+      "spend": 586.6,
+      "impressions": 8016,
+      "clicks": 465,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend22",
+      "date": "2023-09-28",
+      "spend": 568.67,
+      "impressions": 5336,
+      "clicks": 99,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend22",
+      "date": "2023-09-25",
+      "spend": 425.56,
+      "impressions": 2370,
+      "clicks": 234,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend23",
+      "date": "2023-09-28",
+      "spend": 492.45,
+      "impressions": 8181,
+      "clicks": 193,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend23",
+      "date": "2023-09-27",
+      "spend": 376.1,
+      "impressions": 1686,
+      "clicks": 216,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend23",
+      "date": "2023-09-28",
+      "spend": 477.51,
+      "impressions": 2879,
+      "clicks": 99,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend23",
+      "date": "2023-09-25",
+      "spend": 646.82,
+      "impressions": 3022,
+      "clicks": 173,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend23",
+      "date": "2023-09-27",
+      "spend": 912.62,
+      "impressions": 7027,
+      "clicks": 97,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend23",
+      "date": "2023-09-27",
+      "spend": 565.32,
+      "impressions": 5862,
+      "clicks": 440,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend23",
+      "date": "2023-09-24",
+      "spend": 700.68,
+      "impressions": 5358,
+      "clicks": 340,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend23",
+      "date": "2023-09-26",
+      "spend": 222.23,
+      "impressions": 4305,
+      "clicks": 454,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend23",
+      "date": "2023-09-27",
+      "spend": 554.85,
+      "impressions": 4795,
+      "clicks": 336,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend23",
+      "date": "2023-09-25",
+      "spend": 78.46,
+      "impressions": 3513,
+      "clicks": 188,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend24",
+      "date": "2023-09-24",
+      "spend": 496.69,
+      "impressions": 1381,
+      "clicks": 116,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend24",
+      "date": "2023-09-26",
+      "spend": 717.29,
+      "impressions": 7995,
+      "clicks": 134,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend24",
+      "date": "2023-09-26",
+      "spend": 10.32,
+      "impressions": 3464,
+      "clicks": 232,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend24",
+      "date": "2023-09-26",
+      "spend": 426.13,
+      "impressions": 8902,
+      "clicks": 75,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend24",
+      "date": "2023-09-26",
+      "spend": 55.96,
+      "impressions": 6580,
+      "clicks": 281,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend24",
+      "date": "2023-09-24",
+      "spend": 653.54,
+      "impressions": 8448,
+      "clicks": 377,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend24",
+      "date": "2023-09-25",
+      "spend": 537.65,
+      "impressions": 1795,
+      "clicks": 450,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend24",
+      "date": "2023-09-26",
+      "spend": 461.59,
+      "impressions": 2889,
+      "clicks": 287,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend24",
+      "date": "2023-09-25",
+      "spend": 991.82,
+      "impressions": 9057,
+      "clicks": 337,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend24",
+      "date": "2023-09-28",
+      "spend": 437.82,
+      "impressions": 8447,
+      "clicks": 206,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend25",
+      "date": "2023-09-28",
+      "spend": 947.86,
+      "impressions": 5724,
+      "clicks": 278,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend25",
+      "date": "2023-09-26",
+      "spend": 350.93,
+      "impressions": 2073,
+      "clicks": 148,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend25",
+      "date": "2023-09-28",
+      "spend": 18.86,
+      "impressions": 7565,
+      "clicks": 218,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend25",
+      "date": "2023-09-25",
+      "spend": 277.79,
+      "impressions": 7781,
+      "clicks": 130,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend25",
+      "date": "2023-09-25",
+      "spend": 300.93,
+      "impressions": 4386,
+      "clicks": 384,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend25",
+      "date": "2023-09-24",
+      "spend": 922.25,
+      "impressions": 4445,
+      "clicks": 61,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend25",
+      "date": "2023-09-28",
+      "spend": 929.09,
+      "impressions": 2883,
+      "clicks": 457,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend25",
+      "date": "2023-09-26",
+      "spend": 810.97,
+      "impressions": 8836,
+      "clicks": 338,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend25",
+      "date": "2023-09-27",
+      "spend": 18.97,
+      "impressions": 1513,
+      "clicks": 273,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend25",
+      "date": "2023-09-26",
+      "spend": 400.15,
+      "impressions": 4263,
+      "clicks": 161,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend26",
+      "date": "2023-09-27",
+      "spend": 998.63,
+      "impressions": 8815,
+      "clicks": 237,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend26",
+      "date": "2023-09-25",
+      "spend": 169.51,
+      "impressions": 9463,
+      "clicks": 408,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend26",
+      "date": "2023-09-26",
+      "spend": 222.88,
+      "impressions": 7999,
+      "clicks": 423,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend26",
+      "date": "2023-09-25",
+      "spend": 556.28,
+      "impressions": 3951,
+      "clicks": 445,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend26",
+      "date": "2023-09-26",
+      "spend": 592.13,
+      "impressions": 4330,
+      "clicks": 243,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend26",
+      "date": "2023-09-24",
+      "spend": 280.69,
+      "impressions": 5276,
+      "clicks": 126,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend26",
+      "date": "2023-09-28",
+      "spend": 65.5,
+      "impressions": 8505,
+      "clicks": 472,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend26",
+      "date": "2023-09-25",
+      "spend": 759.08,
+      "impressions": 4491,
+      "clicks": 87,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend26",
+      "date": "2023-09-24",
+      "spend": 513.2,
+      "impressions": 5419,
+      "clicks": 387,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend26",
+      "date": "2023-09-26",
+      "spend": 986.85,
+      "impressions": 8007,
+      "clicks": 273,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend27",
+      "date": "2023-09-27",
+      "spend": 851.89,
+      "impressions": 6809,
+      "clicks": 101,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend27",
+      "date": "2023-09-28",
+      "spend": 73.73,
+      "impressions": 2442,
+      "clicks": 273,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend27",
+      "date": "2023-09-26",
+      "spend": 167.89,
+      "impressions": 1199,
+      "clicks": 168,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend27",
+      "date": "2023-09-27",
+      "spend": 827.39,
+      "impressions": 6610,
+      "clicks": 466,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend27",
+      "date": "2023-09-25",
+      "spend": 147.87,
+      "impressions": 9403,
+      "clicks": 480,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend27",
+      "date": "2023-09-27",
+      "spend": 714.2,
+      "impressions": 1183,
+      "clicks": 112,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend27",
+      "date": "2023-09-24",
+      "spend": 741.91,
+      "impressions": 1835,
+      "clicks": 158,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend27",
+      "date": "2023-09-25",
+      "spend": 192.09,
+      "impressions": 2889,
+      "clicks": 80,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend27",
+      "date": "2023-09-26",
+      "spend": 377.83,
+      "impressions": 7024,
+      "clicks": 357,
+      "conversion": 2
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend27",
+      "date": "2023-09-24",
+      "spend": 781.81,
+      "impressions": 7731,
+      "clicks": 140,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend28",
+      "date": "2023-09-24",
+      "spend": 599.29,
+      "impressions": 5469,
+      "clicks": 200,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend28",
+      "date": "2023-09-24",
+      "spend": 910.21,
+      "impressions": 5820,
+      "clicks": 308,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend28",
+      "date": "2023-09-28",
+      "spend": 817.28,
+      "impressions": 8022,
+      "clicks": 246,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend28",
+      "date": "2023-09-26",
+      "spend": 597.66,
+      "impressions": 7076,
+      "clicks": 420,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend28",
+      "date": "2023-09-25",
+      "spend": 97.58,
+      "impressions": 5683,
+      "clicks": 239,
+      "conversion": 6
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend28",
+      "date": "2023-09-26",
+      "spend": 57.97,
+      "impressions": 8725,
+      "clicks": 207,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend28",
+      "date": "2023-09-26",
+      "spend": 84.57,
+      "impressions": 3501,
+      "clicks": 355,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend28",
+      "date": "2023-09-26",
+      "spend": 405.35,
+      "impressions": 3051,
+      "clicks": 480,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend28",
+      "date": "2023-09-24",
+      "spend": 963.38,
+      "impressions": 9599,
+      "clicks": 452,
+      "conversion": 3
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend28",
+      "date": "2023-09-27",
+      "spend": 144.99,
+      "impressions": 9040,
+      "clicks": 225,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend29",
+      "date": "2023-09-25",
+      "spend": 865.74,
+      "impressions": 6732,
+      "clicks": 196,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend29",
+      "date": "2023-09-28",
+      "spend": 322.95,
+      "impressions": 3714,
+      "clicks": 151,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend29",
+      "date": "2023-09-28",
+      "spend": 879.93,
+      "impressions": 8267,
+      "clicks": 388,
+      "conversion": 7
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend29",
+      "date": "2023-09-27",
+      "spend": 339.27,
+      "impressions": 2496,
+      "clicks": 201,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend29",
+      "date": "2023-09-28",
+      "spend": 159.65,
+      "impressions": 5106,
+      "clicks": 465,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend29",
+      "date": "2023-09-28",
+      "spend": 127.69,
+      "impressions": 8642,
+      "clicks": 467,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend29",
+      "date": "2023-09-28",
+      "spend": 210.37,
+      "impressions": 6920,
+      "clicks": 146,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend29",
+      "date": "2023-09-25",
+      "spend": 968.56,
+      "impressions": 5066,
+      "clicks": 397,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend29",
+      "date": "2023-09-25",
+      "spend": 981.81,
+      "impressions": 6867,
+      "clicks": 228,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend29",
+      "date": "2023-09-24",
+      "spend": 473.42,
+      "impressions": 4019,
+      "clicks": 415,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend30",
+      "date": "2023-09-24",
+      "spend": 834.68,
+      "impressions": 9094,
+      "clicks": 265,
+      "conversion": 10
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend30",
+      "date": "2023-09-27",
+      "spend": 15.03,
+      "impressions": 1383,
+      "clicks": 238,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend30",
+      "date": "2023-09-28",
+      "spend": 479.4,
+      "impressions": 7905,
+      "clicks": 284,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend30",
+      "date": "2023-09-25",
+      "spend": 769.62,
+      "impressions": 5106,
+      "clicks": 492,
+      "conversion": 4
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend30",
+      "date": "2023-09-25",
+      "spend": 162.15,
+      "impressions": 8764,
+      "clicks": 233,
+      "conversion": 1
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend30",
+      "date": "2023-09-27",
+      "spend": 283.39,
+      "impressions": 6265,
+      "clicks": 55,
+      "conversion": 8
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend30",
+      "date": "2023-09-25",
+      "spend": 914.38,
+      "impressions": 5451,
+      "clicks": 157,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend30",
+      "date": "2023-09-25",
+      "spend": 286.92,
+      "impressions": 4138,
+      "clicks": 337,
+      "conversion": 9
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend30",
+      "date": "2023-09-26",
+      "spend": 253.38,
+      "impressions": 4606,
+      "clicks": 177,
+      "conversion": 5
+    }
+  },
+  {
+    "model": "spend.spendstatistic",
+    "fields": {
+      "name": "spend30",
+      "date": "2023-09-26",
+      "spend": 124.33,
+      "impressions": 5794,
+      "clicks": 62,
+      "conversion": 9
+    }
+  }
+]
