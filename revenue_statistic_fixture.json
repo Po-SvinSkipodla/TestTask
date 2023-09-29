@@ -1,0 +1,2702 @@
+[
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue1",
+      "spend": 9,
+      "date": "2023-09-25",
+      "revenue": 1427.68
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue1",
+      "spend": 5,
+      "date": "2023-09-24",
+      "revenue": 573.4
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue1",
+      "spend": 2,
+      "date": "2023-09-28",
+      "revenue": 661.09
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue1",
+      "spend": 8,
+      "date": "2023-09-28",
+      "revenue": 534.42
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue1",
+      "spend": 1,
+      "date": "2023-09-27",
+      "revenue": 1761.05
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue1",
+      "spend": 6,
+      "date": "2023-09-27",
+      "revenue": 267.96
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue1",
+      "spend": 5,
+      "date": "2023-09-28",
+      "revenue": 1406.37
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue1",
+      "spend": 10,
+      "date": "2023-09-26",
+      "revenue": 1301.85
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue1",
+      "spend": 10,
+      "date": "2023-09-27",
+      "revenue": 540.17
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue1",
+      "spend": 9,
+      "date": "2023-09-24",
+      "revenue": 609.0
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue2",
+      "spend": 3,
+      "date": "2023-09-25",
+      "revenue": 1834.84
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue2",
+      "spend": 9,
+      "date": "2023-09-25",
+      "revenue": 1693.88
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue2",
+      "spend": 7,
+      "date": "2023-09-26",
+      "revenue": 1889.7
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue2",
+      "spend": 7,
+      "date": "2023-09-27",
+      "revenue": 1569.11
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue2",
+      "spend": 8,
+      "date": "2023-09-27",
+      "revenue": 1043.03
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue2",
+      "spend": 10,
+      "date": "2023-09-27",
+      "revenue": 274.31
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue2",
+      "spend": 1,
+      "date": "2023-09-25",
+      "revenue": 162.81
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue2",
+      "spend": 6,
+      "date": "2023-09-25",
+      "revenue": 1988.95
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue2",
+      "spend": 4,
+      "date": "2023-09-27",
+      "revenue": 231.25
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue2",
+      "spend": 8,
+      "date": "2023-09-24",
+      "revenue": 1477.68
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue3",
+      "spend": 6,
+      "date": "2023-09-25",
+      "revenue": 1134.66
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue3",
+      "spend": 3,
+      "date": "2023-09-27",
+      "revenue": 610.81
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue3",
+      "spend": 10,
+      "date": "2023-09-26",
+      "revenue": 471.15
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue3",
+      "spend": 5,
+      "date": "2023-09-24",
+      "revenue": 1735.34
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue3",
+      "spend": 9,
+      "date": "2023-09-24",
+      "revenue": 1301.14
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue3",
+      "spend": 7,
+      "date": "2023-09-27",
+      "revenue": 1795.55
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue3",
+      "spend": 8,
+      "date": "2023-09-28",
+      "revenue": 779.01
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue3",
+      "spend": 8,
+      "date": "2023-09-27",
+      "revenue": 1070.09
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue3",
+      "spend": 10,
+      "date": "2023-09-24",
+      "revenue": 1614.83
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue3",
+      "spend": 10,
+      "date": "2023-09-25",
+      "revenue": 1238.83
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue4",
+      "spend": 6,
+      "date": "2023-09-25",
+      "revenue": 444.12
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue4",
+      "spend": 8,
+      "date": "2023-09-25",
+      "revenue": 1499.11
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue4",
+      "spend": 2,
+      "date": "2023-09-28",
+      "revenue": 644.85
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue4",
+      "spend": 3,
+      "date": "2023-09-28",
+      "revenue": 1406.44
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue4",
+      "spend": 8,
+      "date": "2023-09-25",
+      "revenue": 1683.79
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue4",
+      "spend": 9,
+      "date": "2023-09-25",
+      "revenue": 558.5
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue4",
+      "spend": 4,
+      "date": "2023-09-24",
+      "revenue": 940.36
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue4",
+      "spend": 10,
+      "date": "2023-09-27",
+      "revenue": 1889.07
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue4",
+      "spend": 10,
+      "date": "2023-09-24",
+      "revenue": 1740.52
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue4",
+      "spend": 9,
+      "date": "2023-09-24",
+      "revenue": 634.26
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue5",
+      "spend": 7,
+      "date": "2023-09-24",
+      "revenue": 264.76
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue5",
+      "spend": 6,
+      "date": "2023-09-28",
+      "revenue": 426.01
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue5",
+      "spend": 3,
+      "date": "2023-09-27",
+      "revenue": 553.59
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue5",
+      "spend": 7,
+      "date": "2023-09-27",
+      "revenue": 122.13
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue5",
+      "spend": 8,
+      "date": "2023-09-26",
+      "revenue": 701.88
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue5",
+      "spend": 9,
+      "date": "2023-09-27",
+      "revenue": 152.21
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue5",
+      "spend": 9,
+      "date": "2023-09-24",
+      "revenue": 107.61
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue5",
+      "spend": 3,
+      "date": "2023-09-25",
+      "revenue": 864.94
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue5",
+      "spend": 10,
+      "date": "2023-09-28",
+      "revenue": 1774.98
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue5",
+      "spend": 10,
+      "date": "2023-09-27",
+      "revenue": 581.33
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue6",
+      "spend": 5,
+      "date": "2023-09-24",
+      "revenue": 353.52
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue6",
+      "spend": 6,
+      "date": "2023-09-26",
+      "revenue": 605.3
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue6",
+      "spend": 3,
+      "date": "2023-09-25",
+      "revenue": 1637.75
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue6",
+      "spend": 9,
+      "date": "2023-09-24",
+      "revenue": 1735.2
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue6",
+      "spend": 1,
+      "date": "2023-09-26",
+      "revenue": 270.87
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue6",
+      "spend": 7,
+      "date": "2023-09-26",
+      "revenue": 1565.41
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue6",
+      "spend": 2,
+      "date": "2023-09-25",
+      "revenue": 588.97
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue6",
+      "spend": 8,
+      "date": "2023-09-25",
+      "revenue": 1033.66
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue6",
+      "spend": 7,
+      "date": "2023-09-26",
+      "revenue": 574.0
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue6",
+      "spend": 2,
+      "date": "2023-09-26",
+      "revenue": 727.3
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue7",
+      "spend": 3,
+      "date": "2023-09-27",
+      "revenue": 1859.62
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue7",
+      "spend": 1,
+      "date": "2023-09-24",
+      "revenue": 1573.23
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue7",
+      "spend": 2,
+      "date": "2023-09-28",
+      "revenue": 1777.07
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue7",
+      "spend": 7,
+      "date": "2023-09-26",
+      "revenue": 1336.44
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue7",
+      "spend": 5,
+      "date": "2023-09-28",
+      "revenue": 1123.83
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue7",
+      "spend": 5,
+      "date": "2023-09-27",
+      "revenue": 1947.69
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue7",
+      "spend": 5,
+      "date": "2023-09-26",
+      "revenue": 1802.25
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue7",
+      "spend": 4,
+      "date": "2023-09-28",
+      "revenue": 1705.29
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue7",
+      "spend": 3,
+      "date": "2023-09-26",
+      "revenue": 1376.33
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue7",
+      "spend": 6,
+      "date": "2023-09-28",
+      "revenue": 1153.13
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue8",
+      "spend": 4,
+      "date": "2023-09-25",
+      "revenue": 1243.52
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue8",
+      "spend": 1,
+      "date": "2023-09-25",
+      "revenue": 1316.07
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue8",
+      "spend": 2,
+      "date": "2023-09-27",
+      "revenue": 285.48
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue8",
+      "spend": 6,
+      "date": "2023-09-25",
+      "revenue": 1167.2
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue8",
+      "spend": 9,
+      "date": "2023-09-27",
+      "revenue": 529.02
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue8",
+      "spend": 8,
+      "date": "2023-09-27",
+      "revenue": 1201.42
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue8",
+      "spend": 10,
+      "date": "2023-09-24",
+      "revenue": 238.99
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue8",
+      "spend": 3,
+      "date": "2023-09-28",
+      "revenue": 1848.09
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue8",
+      "spend": 10,
+      "date": "2023-09-26",
+      "revenue": 1321.94
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue8",
+      "spend": 9,
+      "date": "2023-09-24",
+      "revenue": 147.74
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue9",
+      "spend": 4,
+      "date": "2023-09-24",
+      "revenue": 771.98
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue9",
+      "spend": 8,
+      "date": "2023-09-26",
+      "revenue": 1075.38
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue9",
+      "spend": 1,
+      "date": "2023-09-24",
+      "revenue": 987.8
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue9",
+      "spend": 10,
+      "date": "2023-09-24",
+      "revenue": 1191.39
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue9",
+      "spend": 6,
+      "date": "2023-09-27",
+      "revenue": 202.85
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue9",
+      "spend": 8,
+      "date": "2023-09-26",
+      "revenue": 919.13
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue9",
+      "spend": 10,
+      "date": "2023-09-25",
+      "revenue": 295.93
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue9",
+      "spend": 6,
+      "date": "2023-09-25",
+      "revenue": 1377.29
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue9",
+      "spend": 7,
+      "date": "2023-09-24",
+      "revenue": 1487.17
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue9",
+      "spend": 6,
+      "date": "2023-09-27",
+      "revenue": 1792.34
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue10",
+      "spend": 8,
+      "date": "2023-09-24",
+      "revenue": 653.67
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue10",
+      "spend": 2,
+      "date": "2023-09-28",
+      "revenue": 399.73
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue10",
+      "spend": 4,
+      "date": "2023-09-24",
+      "revenue": 962.55
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue10",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 619.95
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue10",
+      "spend": 1,
+      "date": "2023-09-24",
+      "revenue": 589.49
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue10",
+      "spend": 2,
+      "date": "2023-09-25",
+      "revenue": 988.37
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue10",
+      "spend": 7,
+      "date": "2023-09-24",
+      "revenue": 1783.88
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue10",
+      "spend": 4,
+      "date": "2023-09-24",
+      "revenue": 186.5
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue10",
+      "spend": 8,
+      "date": "2023-09-26",
+      "revenue": 142.96
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue10",
+      "spend": 7,
+      "date": "2023-09-26",
+      "revenue": 1356.9
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue11",
+      "spend": 10,
+      "date": "2023-09-25",
+      "revenue": 1271.86
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue11",
+      "spend": 8,
+      "date": "2023-09-25",
+      "revenue": 658.54
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue11",
+      "spend": 1,
+      "date": "2023-09-24",
+      "revenue": 137.74
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue11",
+      "spend": 3,
+      "date": "2023-09-24",
+      "revenue": 418.86
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue11",
+      "spend": 4,
+      "date": "2023-09-26",
+      "revenue": 255.23
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue11",
+      "spend": 4,
+      "date": "2023-09-24",
+      "revenue": 1581.43
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue11",
+      "spend": 8,
+      "date": "2023-09-25",
+      "revenue": 167.98
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue11",
+      "spend": 10,
+      "date": "2023-09-27",
+      "revenue": 1081.79
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue11",
+      "spend": 5,
+      "date": "2023-09-25",
+      "revenue": 448.21
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue11",
+      "spend": 9,
+      "date": "2023-09-28",
+      "revenue": 1938.62
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue12",
+      "spend": 5,
+      "date": "2023-09-24",
+      "revenue": 1183.27
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue12",
+      "spend": 5,
+      "date": "2023-09-26",
+      "revenue": 1598.46
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue12",
+      "spend": 6,
+      "date": "2023-09-26",
+      "revenue": 1181.38
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue12",
+      "spend": 10,
+      "date": "2023-09-24",
+      "revenue": 1421.97
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue12",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 845.66
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue12",
+      "spend": 9,
+      "date": "2023-09-28",
+      "revenue": 1589.8
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue12",
+      "spend": 9,
+      "date": "2023-09-26",
+      "revenue": 1753.35
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue12",
+      "spend": 10,
+      "date": "2023-09-26",
+      "revenue": 1625.59
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue12",
+      "spend": 1,
+      "date": "2023-09-24",
+      "revenue": 839.24
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue12",
+      "spend": 2,
+      "date": "2023-09-26",
+      "revenue": 339.0
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue13",
+      "spend": 1,
+      "date": "2023-09-26",
+      "revenue": 1670.31
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue13",
+      "spend": 9,
+      "date": "2023-09-28",
+      "revenue": 1401.22
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue13",
+      "spend": 3,
+      "date": "2023-09-27",
+      "revenue": 708.31
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue13",
+      "spend": 3,
+      "date": "2023-09-24",
+      "revenue": 402.15
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue13",
+      "spend": 6,
+      "date": "2023-09-28",
+      "revenue": 1325.69
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue13",
+      "spend": 8,
+      "date": "2023-09-27",
+      "revenue": 1267.14
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue13",
+      "spend": 9,
+      "date": "2023-09-24",
+      "revenue": 1031.53
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue13",
+      "spend": 10,
+      "date": "2023-09-25",
+      "revenue": 931.33
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue13",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 1824.92
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue13",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 840.6
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue14",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 507.04
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue14",
+      "spend": 5,
+      "date": "2023-09-24",
+      "revenue": 168.54
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue14",
+      "spend": 9,
+      "date": "2023-09-28",
+      "revenue": 1880.56
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue14",
+      "spend": 4,
+      "date": "2023-09-25",
+      "revenue": 312.94
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue14",
+      "spend": 7,
+      "date": "2023-09-24",
+      "revenue": 267.47
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue14",
+      "spend": 4,
+      "date": "2023-09-28",
+      "revenue": 237.48
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue14",
+      "spend": 1,
+      "date": "2023-09-28",
+      "revenue": 1651.01
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue14",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 812.23
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue14",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 1621.98
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue14",
+      "spend": 6,
+      "date": "2023-09-26",
+      "revenue": 355.2
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue15",
+      "spend": 6,
+      "date": "2023-09-26",
+      "revenue": 223.31
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue15",
+      "spend": 4,
+      "date": "2023-09-27",
+      "revenue": 1280.24
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue15",
+      "spend": 2,
+      "date": "2023-09-26",
+      "revenue": 613.61
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue15",
+      "spend": 4,
+      "date": "2023-09-26",
+      "revenue": 681.37
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue15",
+      "spend": 4,
+      "date": "2023-09-27",
+      "revenue": 1605.68
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue15",
+      "spend": 9,
+      "date": "2023-09-26",
+      "revenue": 661.33
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue15",
+      "spend": 8,
+      "date": "2023-09-24",
+      "revenue": 1014.9
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue15",
+      "spend": 2,
+      "date": "2023-09-28",
+      "revenue": 1520.73
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue15",
+      "spend": 6,
+      "date": "2023-09-25",
+      "revenue": 952.97
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue15",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 126.09
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue16",
+      "spend": 10,
+      "date": "2023-09-27",
+      "revenue": 519.86
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue16",
+      "spend": 6,
+      "date": "2023-09-25",
+      "revenue": 169.99
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue16",
+      "spend": 1,
+      "date": "2023-09-24",
+      "revenue": 1421.13
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue16",
+      "spend": 2,
+      "date": "2023-09-24",
+      "revenue": 786.45
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue16",
+      "spend": 4,
+      "date": "2023-09-24",
+      "revenue": 395.83
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue16",
+      "spend": 9,
+      "date": "2023-09-26",
+      "revenue": 502.33
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue16",
+      "spend": 10,
+      "date": "2023-09-27",
+      "revenue": 194.37
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue16",
+      "spend": 5,
+      "date": "2023-09-25",
+      "revenue": 255.15
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue16",
+      "spend": 8,
+      "date": "2023-09-24",
+      "revenue": 1240.94
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue16",
+      "spend": 9,
+      "date": "2023-09-27",
+      "revenue": 252.2
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue17",
+      "spend": 8,
+      "date": "2023-09-25",
+      "revenue": 1060.14
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue17",
+      "spend": 10,
+      "date": "2023-09-25",
+      "revenue": 198.75
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue17",
+      "spend": 6,
+      "date": "2023-09-27",
+      "revenue": 1738.13
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue17",
+      "spend": 5,
+      "date": "2023-09-24",
+      "revenue": 417.53
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue17",
+      "spend": 1,
+      "date": "2023-09-28",
+      "revenue": 1356.39
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue17",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 1472.25
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue17",
+      "spend": 6,
+      "date": "2023-09-26",
+      "revenue": 270.03
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue17",
+      "spend": 4,
+      "date": "2023-09-27",
+      "revenue": 650.39
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue17",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 1131.18
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue17",
+      "spend": 3,
+      "date": "2023-09-25",
+      "revenue": 547.31
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue18",
+      "spend": 6,
+      "date": "2023-09-27",
+      "revenue": 1915.17
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue18",
+      "spend": 9,
+      "date": "2023-09-25",
+      "revenue": 589.01
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue18",
+      "spend": 1,
+      "date": "2023-09-28",
+      "revenue": 1191.82
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue18",
+      "spend": 9,
+      "date": "2023-09-26",
+      "revenue": 1042.93
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue18",
+      "spend": 6,
+      "date": "2023-09-25",
+      "revenue": 1651.12
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue18",
+      "spend": 7,
+      "date": "2023-09-25",
+      "revenue": 331.01
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue18",
+      "spend": 2,
+      "date": "2023-09-26",
+      "revenue": 101.11
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue18",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 1430.05
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue18",
+      "spend": 9,
+      "date": "2023-09-24",
+      "revenue": 1112.03
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue18",
+      "spend": 10,
+      "date": "2023-09-27",
+      "revenue": 1255.21
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue19",
+      "spend": 6,
+      "date": "2023-09-27",
+      "revenue": 719.31
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue19",
+      "spend": 1,
+      "date": "2023-09-27",
+      "revenue": 233.89
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue19",
+      "spend": 1,
+      "date": "2023-09-24",
+      "revenue": 1271.83
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue19",
+      "spend": 5,
+      "date": "2023-09-28",
+      "revenue": 1261.9
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue19",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 522.44
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue19",
+      "spend": 9,
+      "date": "2023-09-26",
+      "revenue": 1085.1
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue19",
+      "spend": 3,
+      "date": "2023-09-28",
+      "revenue": 766.54
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue19",
+      "spend": 2,
+      "date": "2023-09-27",
+      "revenue": 1520.4
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue19",
+      "spend": 1,
+      "date": "2023-09-24",
+      "revenue": 1919.13
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue19",
+      "spend": 4,
+      "date": "2023-09-26",
+      "revenue": 361.76
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue20",
+      "spend": 4,
+      "date": "2023-09-28",
+      "revenue": 111.08
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue20",
+      "spend": 9,
+      "date": "2023-09-25",
+      "revenue": 1697.62
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue20",
+      "spend": 5,
+      "date": "2023-09-28",
+      "revenue": 1104.17
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue20",
+      "spend": 2,
+      "date": "2023-09-24",
+      "revenue": 723.65
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue20",
+      "spend": 6,
+      "date": "2023-09-25",
+      "revenue": 533.44
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue20",
+      "spend": 10,
+      "date": "2023-09-27",
+      "revenue": 1010.48
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue20",
+      "spend": 1,
+      "date": "2023-09-25",
+      "revenue": 327.17
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue20",
+      "spend": 6,
+      "date": "2023-09-28",
+      "revenue": 557.12
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue20",
+      "spend": 8,
+      "date": "2023-09-25",
+      "revenue": 1636.97
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue20",
+      "spend": 4,
+      "date": "2023-09-24",
+      "revenue": 1547.04
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue21",
+      "spend": 2,
+      "date": "2023-09-28",
+      "revenue": 349.94
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue21",
+      "spend": 4,
+      "date": "2023-09-25",
+      "revenue": 1649.04
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue21",
+      "spend": 6,
+      "date": "2023-09-28",
+      "revenue": 180.78
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue21",
+      "spend": 6,
+      "date": "2023-09-27",
+      "revenue": 1262.54
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue21",
+      "spend": 8,
+      "date": "2023-09-28",
+      "revenue": 731.52
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue21",
+      "spend": 3,
+      "date": "2023-09-24",
+      "revenue": 1861.24
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue21",
+      "spend": 1,
+      "date": "2023-09-24",
+      "revenue": 564.68
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue21",
+      "spend": 7,
+      "date": "2023-09-27",
+      "revenue": 1768.36
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue21",
+      "spend": 9,
+      "date": "2023-09-24",
+      "revenue": 1228.43
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue21",
+      "spend": 4,
+      "date": "2023-09-24",
+      "revenue": 390.12
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue22",
+      "spend": 1,
+      "date": "2023-09-28",
+      "revenue": 1829.07
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue22",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 1919.7
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue22",
+      "spend": 8,
+      "date": "2023-09-28",
+      "revenue": 1897.9
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue22",
+      "spend": 9,
+      "date": "2023-09-26",
+      "revenue": 1454.13
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue22",
+      "spend": 5,
+      "date": "2023-09-24",
+      "revenue": 369.43
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue22",
+      "spend": 6,
+      "date": "2023-09-25",
+      "revenue": 1782.6
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue22",
+      "spend": 3,
+      "date": "2023-09-24",
+      "revenue": 429.6
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue22",
+      "spend": 8,
+      "date": "2023-09-24",
+      "revenue": 1623.15
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue22",
+      "spend": 6,
+      "date": "2023-09-28",
+      "revenue": 1690.79
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue22",
+      "spend": 2,
+      "date": "2023-09-27",
+      "revenue": 497.84
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue23",
+      "spend": 10,
+      "date": "2023-09-24",
+      "revenue": 1305.35
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue23",
+      "spend": 7,
+      "date": "2023-09-27",
+      "revenue": 1957.19
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue23",
+      "spend": 5,
+      "date": "2023-09-28",
+      "revenue": 146.94
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue23",
+      "spend": 8,
+      "date": "2023-09-26",
+      "revenue": 1459.04
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue23",
+      "spend": 7,
+      "date": "2023-09-28",
+      "revenue": 304.8
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue23",
+      "spend": 4,
+      "date": "2023-09-25",
+      "revenue": 652.2
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue23",
+      "spend": 4,
+      "date": "2023-09-26",
+      "revenue": 1657.47
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue23",
+      "spend": 6,
+      "date": "2023-09-27",
+      "revenue": 1632.4
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue23",
+      "spend": 4,
+      "date": "2023-09-25",
+      "revenue": 1399.65
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue23",
+      "spend": 9,
+      "date": "2023-09-25",
+      "revenue": 1989.43
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue24",
+      "spend": 5,
+      "date": "2023-09-27",
+      "revenue": 1319.16
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue24",
+      "spend": 5,
+      "date": "2023-09-27",
+      "revenue": 1266.74
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue24",
+      "spend": 9,
+      "date": "2023-09-24",
+      "revenue": 298.49
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue24",
+      "spend": 6,
+      "date": "2023-09-26",
+      "revenue": 1608.25
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue24",
+      "spend": 6,
+      "date": "2023-09-25",
+      "revenue": 1081.2
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue24",
+      "spend": 8,
+      "date": "2023-09-26",
+      "revenue": 208.76
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue24",
+      "spend": 10,
+      "date": "2023-09-24",
+      "revenue": 343.43
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue24",
+      "spend": 9,
+      "date": "2023-09-25",
+      "revenue": 1086.09
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue24",
+      "spend": 2,
+      "date": "2023-09-25",
+      "revenue": 656.42
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue24",
+      "spend": 9,
+      "date": "2023-09-28",
+      "revenue": 1986.96
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue25",
+      "spend": 3,
+      "date": "2023-09-27",
+      "revenue": 1743.49
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue25",
+      "spend": 8,
+      "date": "2023-09-25",
+      "revenue": 1922.13
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue25",
+      "spend": 9,
+      "date": "2023-09-26",
+      "revenue": 1710.05
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue25",
+      "spend": 3,
+      "date": "2023-09-26",
+      "revenue": 301.06
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue25",
+      "spend": 1,
+      "date": "2023-09-27",
+      "revenue": 1559.87
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue25",
+      "spend": 1,
+      "date": "2023-09-25",
+      "revenue": 259.74
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue25",
+      "spend": 6,
+      "date": "2023-09-24",
+      "revenue": 1495.84
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue25",
+      "spend": 4,
+      "date": "2023-09-24",
+      "revenue": 1489.85
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue25",
+      "spend": 1,
+      "date": "2023-09-28",
+      "revenue": 594.93
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue25",
+      "spend": 7,
+      "date": "2023-09-26",
+      "revenue": 920.82
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue26",
+      "spend": 3,
+      "date": "2023-09-28",
+      "revenue": 826.94
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue26",
+      "spend": 6,
+      "date": "2023-09-26",
+      "revenue": 231.96
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue26",
+      "spend": 2,
+      "date": "2023-09-25",
+      "revenue": 1567.59
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue26",
+      "spend": 2,
+      "date": "2023-09-27",
+      "revenue": 248.59
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue26",
+      "spend": 3,
+      "date": "2023-09-28",
+      "revenue": 1323.23
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue26",
+      "spend": 7,
+      "date": "2023-09-26",
+      "revenue": 523.45
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue26",
+      "spend": 8,
+      "date": "2023-09-28",
+      "revenue": 1491.39
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue26",
+      "spend": 7,
+      "date": "2023-09-24",
+      "revenue": 805.85
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue26",
+      "spend": 8,
+      "date": "2023-09-24",
+      "revenue": 1952.58
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue26",
+      "spend": 9,
+      "date": "2023-09-26",
+      "revenue": 248.01
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue27",
+      "spend": 5,
+      "date": "2023-09-28",
+      "revenue": 1071.57
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue27",
+      "spend": 3,
+      "date": "2023-09-25",
+      "revenue": 1374.76
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue27",
+      "spend": 1,
+      "date": "2023-09-27",
+      "revenue": 1589.16
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue27",
+      "spend": 8,
+      "date": "2023-09-25",
+      "revenue": 1589.76
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue27",
+      "spend": 9,
+      "date": "2023-09-27",
+      "revenue": 779.09
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue27",
+      "spend": 8,
+      "date": "2023-09-26",
+      "revenue": 243.23
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue27",
+      "spend": 4,
+      "date": "2023-09-28",
+      "revenue": 676.19
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue27",
+      "spend": 8,
+      "date": "2023-09-24",
+      "revenue": 1400.86
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue27",
+      "spend": 5,
+      "date": "2023-09-27",
+      "revenue": 1762.16
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue27",
+      "spend": 6,
+      "date": "2023-09-27",
+      "revenue": 388.65
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue28",
+      "spend": 10,
+      "date": "2023-09-24",
+      "revenue": 856.94
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue28",
+      "spend": 8,
+      "date": "2023-09-25",
+      "revenue": 1322.17
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue28",
+      "spend": 2,
+      "date": "2023-09-25",
+      "revenue": 1496.45
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue28",
+      "spend": 5,
+      "date": "2023-09-25",
+      "revenue": 1259.74
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue28",
+      "spend": 1,
+      "date": "2023-09-27",
+      "revenue": 1164.48
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue28",
+      "spend": 7,
+      "date": "2023-09-25",
+      "revenue": 878.36
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue28",
+      "spend": 4,
+      "date": "2023-09-26",
+      "revenue": 826.25
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue28",
+      "spend": 9,
+      "date": "2023-09-25",
+      "revenue": 1273.02
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue28",
+      "spend": 1,
+      "date": "2023-09-27",
+      "revenue": 1354.67
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue28",
+      "spend": 7,
+      "date": "2023-09-27",
+      "revenue": 829.96
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue29",
+      "spend": 9,
+      "date": "2023-09-27",
+      "revenue": 550.7
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue29",
+      "spend": 6,
+      "date": "2023-09-28",
+      "revenue": 1059.87
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue29",
+      "spend": 10,
+      "date": "2023-09-26",
+      "revenue": 700.2
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue29",
+      "spend": 7,
+      "date": "2023-09-27",
+      "revenue": 1815.32
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue29",
+      "spend": 4,
+      "date": "2023-09-24",
+      "revenue": 821.5
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue29",
+      "spend": 8,
+      "date": "2023-09-26",
+      "revenue": 201.21
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue29",
+      "spend": 5,
+      "date": "2023-09-25",
+      "revenue": 954.89
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue29",
+      "spend": 10,
+      "date": "2023-09-28",
+      "revenue": 1796.9
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue29",
+      "spend": 3,
+      "date": "2023-09-27",
+      "revenue": 1225.52
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue29",
+      "spend": 7,
+      "date": "2023-09-27",
+      "revenue": 1765.82
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue30",
+      "spend": 10,
+      "date": "2023-09-25",
+      "revenue": 1780.18
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue30",
+      "spend": 7,
+      "date": "2023-09-27",
+      "revenue": 1200.06
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue30",
+      "spend": 2,
+      "date": "2023-09-25",
+      "revenue": 1225.71
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue30",
+      "spend": 6,
+      "date": "2023-09-25",
+      "revenue": 122.59
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue30",
+      "spend": 7,
+      "date": "2023-09-24",
+      "revenue": 689.14
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue30",
+      "spend": 3,
+      "date": "2023-09-26",
+      "revenue": 587.37
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue30",
+      "spend": 2,
+      "date": "2023-09-25",
+      "revenue": 642.4
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue30",
+      "spend": 7,
+      "date": "2023-09-28",
+      "revenue": 1284.69
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue30",
+      "spend": 9,
+      "date": "2023-09-25",
+      "revenue": 1074.48
+    }
+  },
+  {
+    "model": "revenue.revenuestatistic",
+    "fields": {
+      "name": "revenue30",
+      "spend": 6,
+      "date": "2023-09-27",
+      "revenue": 1018.74
+    }
+  }
+]
