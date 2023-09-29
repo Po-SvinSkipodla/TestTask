@@ -7,4 +7,4 @@ class RevenueStatistic(models.Model):
         "spend.SpendStatistic", on_delete=models.SET_NULL, null=True
     )
     date = models.DateField()
-    revenue = models.DecimalField(max_digits=9, decimal_places=2,   default=0)
+    revenue = models.DecimalField(max_digits=9, decimal_places=2, default=0)
